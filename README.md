@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my university projects<br>🤝 I’m looking to collaborate with other developers<br>🌱 I’m currently learning web development<br>⚡ Available for Hire
+🔭 I’m currently working on my university projects<br>🤝 I’m looking to collaborate with other developers<br>🌱 I’m currently learning web development<br>⚡ CianCoders
 
 
 ## 🌐 Socials:
